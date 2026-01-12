@@ -1,0 +1,18 @@
+[general]
+name=Hardness Calculator
+qgisMinimumVersion=3.10
+qgisMaximumVersion=3.99
+version=0.1.0
+author=Renato Henriques
+email=rhenriques@dct.uminho.pt
+description=Generates hardness values from sonar-derived attributes (Depth, E1, E2 and PeakSV) for point features.
+about=Hardness Calculator computes a hardness index for point layers using sonar-derived attributes (Depth, E1, E2 and PeakSV). It writes results back to the layer and optionally produces a processing log for traceability.
+category=Analysis
+tags=hardness,sonar,geophysics,geotechnical,qgis,points,attributes
+
+homepage=
+repository=
+tracker=
+
+experimental=False
+deprecated=False
